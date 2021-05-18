@@ -1,6 +1,6 @@
 # El juego de Pikachu. tarea The Egg 33.
 
-#definicion de la clase "POKEMON" Con los atributos "nombre, ataque y vida"
+#definición de la clase "POKEMON" Con los atributos "nombre, ataque y vida".
 class Pokemon:
     def __init__(self,nombre,vida,ataque):
         self.nombre = nombre
@@ -11,7 +11,7 @@ class Pokemon:
 Pikachu = Pokemon("Pikachu",100,55)
 Jiglypuff = Pokemon("Jiglypuff", 100, 45)
 
-#inicializamos el turno a "1", Pikachu empieza el ataque
+#inicializamos el turno a "1", Pikachu empieza el ataque.
 turno = 1
 
 while Pikachu.vida > 0 and Jiglypuff.vida > 0:
