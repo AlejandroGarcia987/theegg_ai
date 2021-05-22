@@ -1,4 +1,4 @@
-#El juego de Pikachu. Tarea 33 "The Egg".
+El juego de Pikachu. Tarea 33 "The Egg".
 
 A la hora de desarrollar un programa informático es importante conocer
 cómo se desarrollará el mismo, cuáles serán los estados por los que un programa se ejecutará
