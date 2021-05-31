@@ -60,3 +60,22 @@ Lenguaje de programación enfocado al análisis estadístico
 #SQL 
 
 Lenguaje diseñado para trabajar con bases de datos.
+
+#Bases de datos relacionales
+
+Es una base de datos cuyas tablas se relacionan entre sí.
+
+#MySQL
+
+Es un tipo de base de datos relacional 
+
+#postgreSQL
+
+Es un tipo de base de datos relacional
+
+#MongoDB
+
+Es una base de datos no relacional
+
+
+
