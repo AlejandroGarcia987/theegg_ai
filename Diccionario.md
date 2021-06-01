@@ -77,5 +77,9 @@ Es un tipo de base de datos relacional
 
 Es una base de datos no relacional
 
+#Algoritmo 
+
+Conjunto de operaciones que permite hacer un cálculo.
+
 
 
