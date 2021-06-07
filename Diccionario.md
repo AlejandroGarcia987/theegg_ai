@@ -81,5 +81,29 @@ Es una base de datos no relacional
 
 Conjunto de operaciones que permite hacer un cálculo.
 
+#convertidor analógico digital
+
+Un conversor analógico digital es un dispositivo capaz de transformar una señal analógica de tensión o corriente y convertirla a señal digital
+
+#transistores bipolares
+
+Dispositivo electrónico con uniones PN donde se identifican tres regiones:
+
+-Emisor
+-Base
+-Colector
+
+#Frecuencia de muestreo
+
+Número de muestras por unidad de tiempo
+
+#Sistema binario
+
+Sistema por el cual los números son totalmente representados mediante 0 y 1
+
+#Algebra de boole
+
+Esquema para operaciones lógicas
+
 
 
