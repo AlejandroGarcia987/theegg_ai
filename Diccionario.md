@@ -105,5 +105,7 @@ Sistema por el cual los números son totalmente representados mediante 0 y 1
 
 Esquema para operaciones lógicas
 
+#Convenciones de programación
 
+directrices y recomendaciones a la hora de escribir un código
 
