@@ -109,3 +109,9 @@ Esquema para operaciones lógicas
 
 directrices y recomendaciones a la hora de escribir un código
 
+#Ada Lovelace
+Matemática y escritora Británica, conocida por su trabajo sobre la calculadora y considerada
+como la primera programadora.
+
+#Bucle
+Secuencia de instrucciones que se repite 
