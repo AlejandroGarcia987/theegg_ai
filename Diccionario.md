@@ -115,3 +115,39 @@ como la primera programadora.
 
 #Bucle
 Secuencia de instrucciones que se repite 
+
+#Estadística inferencial
+Se emplea para estimar parámetros poblacionales a partir de la muestra utilizada
+
+#Variable
+Palabra o letra empleada para representar aquello que está sujeto a cambiar.
+
+#Muestra 
+Cantidad pequeña de algo que se considera representativa del total
+
+#Predicción
+declaración de lo que ocurrirá en un futuro próximo o lejano
+
+#Estimación
+Es la determinación de un elemento tomando como referencia una base o un conjunto de datos
+
+#hipotesis
+Suposición hecha a partir de datos
+
+#Varianza
+medida de dispersión empleada para representar la variabilidad de un sistema
+
+#Distribución normal 
+La distribución normal adapta una variable aleatoria a una función
+que depende de la media y la desviación típica.
+
+#Notación asintótica 
+Permite analizar el tiempo de ejecución de un algoritmo si el número de datos o entradas del mismo 
+aumenta 
+
+#Notacion Big O
+Es otra manera de referirse a la notación asintótica
+
+#Algoritmos de ordenación
+En computación y matemáticas un algoritmo de ordenamiento es un algoritmo que pone elementos de una lista o un vector en
+una secuencia dada por una relación de orden

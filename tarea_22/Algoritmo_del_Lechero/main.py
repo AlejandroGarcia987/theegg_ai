@@ -45,11 +45,3 @@ if __name__ == "__main__":
 
     print("La cantidad máxima de leche a producir es: ")
     print (algoritmo(num_vacas, peso_max, pesos_vacas, prod_vacas))
-
-
-
-
-
-
-
-
