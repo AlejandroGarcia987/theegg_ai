@@ -1,6 +1,4 @@
 # tarea 44
-#ejercicio 1.
-
 import time
 
 
@@ -20,14 +18,11 @@ def suma_constante(cantidad): #sumar utilizando el método optimizado.
     print(suma)
 
 
-# def suma_constante: #realizar la suma de manera optimizada
-
-
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    cantidad = 10000 #cuidado, si se excede el número en demasia, se puede bloquear el ordenador
+    cantidad = 100000 #cuidado, si se excede el número en demasia, se puede bloquear el ordenador
 
-    for i in range(4):
+    for i in range(4): #Mediomos el tiempo necesario para realizar cada oepración
         t0 = time.time()
         suma_lineal(cantidad + 1)
         t1 = time.time()
