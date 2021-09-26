@@ -42,22 +42,15 @@ def busqueda_binaria(Array_ordenado):
                 Array_ordenado = array_2
 
 
-
-
-
-
-
-
-
-
-
-
-
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
 
     #Array de entrada
-    Array = [3,56,21,33,874,123,66,1000,23,45,65,56]
+    #Array = [3,56,21,33,874,123,66,1000,23,45,65,56] #Array dado por el enunciado
+
+    Array = [3, 56, 21,33, 123, 66, 1000, 23, 45, 65, 56, 456, 78, 1215, 65, 23, 511, 5, 7, 4, 1, 2, 336, 3, 5598,
+             21545, 1, 15, 465,874, 3, 543, 45, 6] #Array de prueba, con este array queda mucho más clara la diferencia entre un algoritmo y otro.
+                                               #Variar la posición del número para ver la diferencia en el número de iteraciones
 
     #Utilizamos una llamada al algorimto de búsqueda lineal, que no necesita ordenación, y después llamamos al de ordenación
     busqueda_lineal(Array)
