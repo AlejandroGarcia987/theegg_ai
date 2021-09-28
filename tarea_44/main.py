@@ -7,7 +7,7 @@ def suma_lineal(cantidad):  # sumar uno por uno cada número
     array = list(range(1,cantidad))
     suma = 0
     for i in range(cantidad): #Utilizamos un bucle for en vez de usar el comando "sum()"
-        suma = suma + i
+        suma = +i
     print(suma)
 
 def suma_constante(cantidad): #sumar utilizando el método optimizado.

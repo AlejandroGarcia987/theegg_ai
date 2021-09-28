@@ -151,3 +151,19 @@ Es otra manera de referirse a la notación asintótica
 #Algoritmos de ordenación
 En computación y matemáticas un algoritmo de ordenamiento es un algoritmo que pone elementos de una lista o un vector en
 una secuencia dada por una relación de orden
+
+#Compilador
+Programa informático que traduce un programa escrito en un determinado lenguaje informático
+a otro lenguaje de alto, medio o bajo nivel.
+
+#Intérprete
+Es un programa capaz de analizar y ejecutar otros programas
+
+#Editor de código 
+Programa capaz de modificar y escribir código.
+
+#Lenguaje de alto nivel
+Se caracteriza por expresar algoritmos de manera adecuada a la capacidad cognitiva humana.
+
+#Lenguaje máquina
+LEnguaje cuyas instrucciones son directamente entendibles por una máquina o computadora.

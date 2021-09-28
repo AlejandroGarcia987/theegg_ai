@@ -12,14 +12,6 @@ def algoritmo_encriptador(Texto):
 
 
 
-
-
-
-
-
-
-
-
 if __name__ == "__main__":
     #1. Pedimos al usuario que introduzca una frase
 
