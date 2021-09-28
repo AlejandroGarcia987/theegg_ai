@@ -166,4 +166,21 @@ Programa capaz de modificar y escribir código.
 Se caracteriza por expresar algoritmos de manera adecuada a la capacidad cognitiva humana.
 
 #Lenguaje máquina
-LEnguaje cuyas instrucciones son directamente entendibles por una máquina o computadora.
+Lenguaje cuyas instrucciones son directamente entendibles por una máquina o computadora.
+
+#API
+Conjunto de rutinas y funciones que se usan para desarrollar e integrar
+software de otras aplicaciones
+
+#JSON
+Formato para el intercambio de datos
+
+#XML
+Lenguaje de marcado que define un conjunto de reglas para la 
+codificación de documentos.
+
+#Protocolo de comunicación
+sistema de reglas que permiten que dos o mas entidades
+de un sistema de comunicación se comuniquen entre ellas.
+
+
